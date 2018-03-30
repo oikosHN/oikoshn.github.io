@@ -1,0 +1,22 @@
+name: "Oikos Consultores Ambientales"
+output_dir: "."
+navbar:
+  title: "Oikos Consultores Ambientales"
+  left:
+    - text: "QuienesSomos"
+      href: QuienesSomos.html
+    - text: "Proyectos"
+      href: Proyectos.html
+    - text: "NuestrosClientes"
+      href: NuestrosClientes.html
+    - text: "Servicios"
+      href: Servicios.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contacto.html
+    - icon: fa-github fa-lg
+      href: http://github.com/oikosHN
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
