@@ -5,4 +5,3 @@
 
 <img src="images/Tres.png" style="width:30%; border:2px solid; margin-right: 20px" align="left">
 
-LA ONDA SIG PUE

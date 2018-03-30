@@ -3,8 +3,8 @@
   
 <link rel="stylesheet" href="styles.css" type="text/css">
     
-<p>Museo de Historia Natural</p>
-<p>Universidad Nacional Autónoma de Honduras</p>
+<p>CAMBIAR</p>
+<p>CAMBIAR</p>
 <p>Tegucigalpa, Honduras</p>
 <p>(504) 2239-8661</p>
 <p>oikoshn@gmail.com</p>

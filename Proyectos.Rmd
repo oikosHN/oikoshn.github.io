@@ -5,4 +5,4 @@
 
 <img src="images/Uno.png" style="width:30%; border:2px solid; margin-right: 20px" align="left">
 
-SENSORES REMOTOS
+LLENAR LLENAR LLENAR
